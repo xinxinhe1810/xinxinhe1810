@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="left">
   <div style="display: flex;">
-       <img height="240em" src="https://github-readme-stats.vercel.app/api?username=xinxinhe1810&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars,commits&hide_rank=true"/>
-      <img height="240em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinxinhe1810&layout=compact&langs_count=8&theme=radical"/>
+       <img height="240em" width="49%" src="https://github-readme-stats.vercel.app/api?username=xinxinhe1810&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars,commits&hide_rank=true"/>
+      <img height="240em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinxinhe1810&layout=compact&langs_count=8&theme=radical"/>
   </div>
 </div>
